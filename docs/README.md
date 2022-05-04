@@ -7,7 +7,7 @@ access it in the browser.
 
 ![Screenshot](./assets/screenshot.png)
 
-## Highlights
+## Highlights a
 
 - Code on any device with a consistent development environment
 - Use cloud servers to speed up tests, compilations, downloads, and more
